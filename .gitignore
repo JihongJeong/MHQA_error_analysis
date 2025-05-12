@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+.env
+
+# Project specific
+result_plot/
+hard_error_case.csv
