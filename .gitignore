@@ -4,4 +4,4 @@ __pycache__/
 
 # Project specific
 result_plot/
-hard_error_case.csv
+*.csv
